@@ -1,0 +1,12 @@
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\bin\Debug\netcoreapp3.1\TradeTeq.Repository.deps.json
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\bin\Debug\netcoreapp3.1\TradeTeq.Repository.dll
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\bin\Debug\netcoreapp3.1\TradeTeq.Repository.pdb
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\bin\Debug\netcoreapp3.1\TradeTeq.Domain.dll
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\bin\Debug\netcoreapp3.1\TradeTeq.Domain.pdb
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\obj\Debug\netcoreapp3.1\TradeTeq.Repository.csprojAssemblyReference.cache
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\obj\Debug\netcoreapp3.1\TradeTeq.Repository.AssemblyInfoInputs.cache
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\obj\Debug\netcoreapp3.1\TradeTeq.Repository.AssemblyInfo.cs
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\obj\Debug\netcoreapp3.1\TradeTeq.Repository.csproj.CoreCompileInputs.cache
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\obj\Debug\netcoreapp3.1\TradeTeq.Repository.csproj.CopyComplete
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\obj\Debug\netcoreapp3.1\TradeTeq.Repository.dll
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Repository\obj\Debug\netcoreapp3.1\TradeTeq.Repository.pdb

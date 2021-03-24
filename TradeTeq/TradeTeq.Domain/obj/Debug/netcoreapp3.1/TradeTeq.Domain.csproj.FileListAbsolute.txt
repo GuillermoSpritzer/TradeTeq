@@ -1,0 +1,8 @@
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Domain\bin\Debug\netcoreapp3.1\TradeTeq.Domain.deps.json
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Domain\bin\Debug\netcoreapp3.1\TradeTeq.Domain.dll
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Domain\bin\Debug\netcoreapp3.1\TradeTeq.Domain.pdb
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Domain\obj\Debug\netcoreapp3.1\TradeTeq.Domain.AssemblyInfoInputs.cache
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Domain\obj\Debug\netcoreapp3.1\TradeTeq.Domain.AssemblyInfo.cs
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Domain\obj\Debug\netcoreapp3.1\TradeTeq.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Domain\obj\Debug\netcoreapp3.1\TradeTeq.Domain.dll
+C:\Users\gspritzer\source\repos\TradeTeq\TradeTeq.Domain\obj\Debug\netcoreapp3.1\TradeTeq.Domain.pdb
